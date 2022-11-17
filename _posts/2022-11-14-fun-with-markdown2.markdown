@@ -4,7 +4,6 @@ title:  "Welcome to the Markdown Workshop"
 date:   2022-11-15 21:11:02 -0500
 categories: markdown update
 ---
-
 # Welcome to the Markdown Workshop
 
 We'll be looking at [our GitHub Pages site](https://brandonkatzir.github.io/KatzirDemo2). 
