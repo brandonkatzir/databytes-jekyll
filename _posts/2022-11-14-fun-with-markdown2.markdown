@@ -6,27 +6,34 @@ categories: markdown update
 ---
 # Welcome to the Markdown Workshop
 
-We'll be looking at [our GitHub Pages site](https://brandonkatzir.github.io/KatzirDemo2). 
+We'll be looking at Markdown generally and exploring how to use it in the Jekyll sites we created last time. 
 
-We need to have the following: 
-1. blah
-2. blahblah
-3. blahblahblah
+Let's take a look at some basic syntax like ordered lists. 
 
-And also
-* something
-* something something
+Ordered lists are created simply by using numerals: 
+1. Item 1
+2. Item 2
+3. Item 3
 
-We use the following code to launch Jekyll 
+Unordered lists are created using a hyphen
+- Item
+- Other item
+    - Indenting and using a hyphen creates a nested list
+
+Markdown is also used in a lot of documentation. One of the reasons for that is the ease of formatting code. For example, we use the following code to launch Jekyll: 
 
 ```bundle exec jekyll serve --watch```
 
-Block paragraphs are important
-> They tell us what we need to know. 
+Block paragraphs are also important
+> They give us more information about a topic. 
 
 We can also *emphasize* or **go bold** or even ***really emphasize*** when we want to! 
 
+You can also render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/).
 
+$$
+\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
+$$
 
 
 
