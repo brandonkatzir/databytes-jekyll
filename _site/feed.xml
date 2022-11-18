@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/databytes-jekyll/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/databytes-jekyll/" rel="alternate" type="text/html" /><updated>2022-11-18T12:32:14-05:00</updated><id>http://localhost:4000/databytes-jekyll/feed.xml</id><title type="html">jekyll &amp;amp; markdown workshop | okstate library</title><subtitle>This site was created for a Data Bytes workshop series on building static sites in Jekyll and writing content in Markdown.</subtitle><entry><title type="html">Welcome to the Markdown Workshop</title><link href="http://localhost:4000/databytes-jekyll/markdown/update/2022/11/15/fun-with-markdown2.html" rel="alternate" type="text/html" title="Welcome to the Markdown Workshop" /><published>2022-11-15T21:11:02-05:00</published><updated>2022-11-15T21:11:02-05:00</updated><id>http://localhost:4000/databytes-jekyll/markdown/update/2022/11/15/fun-with-markdown2</id><content type="html" xml:base="http://localhost:4000/databytes-jekyll/markdown/update/2022/11/15/fun-with-markdown2.html"><![CDATA[<h1 id="welcome-to-the-markdown-workshop">Welcome to the Markdown Workshop</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/databytes-jekyll/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/databytes-jekyll/" rel="alternate" type="text/html" /><updated>2022-11-18T12:44:15-05:00</updated><id>http://localhost:4000/databytes-jekyll/feed.xml</id><title type="html">jekyll &amp;amp; markdown workshop | okstate library</title><subtitle>This site was created for a Data Bytes workshop series on building static sites in Jekyll and writing content in Markdown.</subtitle><entry><title type="html">Welcome to the Markdown Workshop</title><link href="http://localhost:4000/databytes-jekyll/markdown/update/2022/11/15/fun-with-markdown2.html" rel="alternate" type="text/html" title="Welcome to the Markdown Workshop" /><published>2022-11-15T21:11:02-05:00</published><updated>2022-11-15T21:11:02-05:00</updated><id>http://localhost:4000/databytes-jekyll/markdown/update/2022/11/15/fun-with-markdown2</id><content type="html" xml:base="http://localhost:4000/databytes-jekyll/markdown/update/2022/11/15/fun-with-markdown2.html"><![CDATA[<h1 id="welcome-to-the-markdown-workshop">Welcome to the Markdown Workshop</h1>
 
 <p>We’ll be looking at Markdown generally and exploring how to use it in the Jekyll sites we created last time.</p>
 
@@ -34,9 +34,12 @@
 
 <p>You can also render LaTeX mathematical expressions using <a href="https://khan.github.io/KaTeX/">KaTeX</a>.</p>
 
+<blockquote>
+  <p>Here’s more info on <a href="https://www.xuningyang.com/blog/2021-01-11-katex-with-jekyll/">configuring Jekyll</a> to display LaTeX using KaTeX. 
 <!-- $$
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$ -->
+$$ --></p>
+</blockquote>
 
 <blockquote>
   <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>

@@ -31,6 +31,7 @@ We can also *emphasize* or **go bold** or even ***really emphasize*** when we wa
 
 You can also render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/).
 
+> Here's more info on [configuring Jekyll](https://www.xuningyang.com/blog/2021-01-11-katex-with-jekyll/) to display LaTeX using KaTeX. 
 <!-- $$
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
 $$ -->
