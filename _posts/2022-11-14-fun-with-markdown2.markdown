@@ -31,9 +31,9 @@ We can also *emphasize* or **go bold** or even ***really emphasize*** when we wa
 
 You can also render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/).
 
-$$
+<!-- $$
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
+$$ -->
 
 
 
