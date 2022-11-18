@@ -1,4 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/databytes-jekyll/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/databytes-jekyll/" rel="alternate" type="text/html" /><updated>2022-11-18T12:44:15-05:00</updated><id>http://localhost:4000/databytes-jekyll/feed.xml</id><title type="html">jekyll &amp;amp; markdown workshop | okstate library</title><subtitle>This site was created for a Data Bytes workshop series on building static sites in Jekyll and writing content in Markdown.</subtitle><entry><title type="html">Welcome to the Markdown Workshop</title><link href="http://localhost:4000/databytes-jekyll/markdown/update/2022/11/15/fun-with-markdown2.html" rel="alternate" type="text/html" title="Welcome to the Markdown Workshop" /><published>2022-11-15T21:11:02-05:00</published><updated>2022-11-15T21:11:02-05:00</updated><id>http://localhost:4000/databytes-jekyll/markdown/update/2022/11/15/fun-with-markdown2</id><content type="html" xml:base="http://localhost:4000/databytes-jekyll/markdown/update/2022/11/15/fun-with-markdown2.html"><![CDATA[<h1 id="welcome-to-the-markdown-workshop">Welcome to the Markdown Workshop</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/databytes-jekyll/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/databytes-jekyll/" rel="alternate" type="text/html" /><updated>2022-11-18T13:16:23-05:00</updated><id>http://localhost:4000/databytes-jekyll/feed.xml</id><title type="html">jekyll &amp;amp; markdown workshop | okstate library</title><subtitle>This site was created for a Data Bytes workshop series on building static sites in Jekyll and writing content in Markdown.</subtitle><entry><title type="html">Markdown Guide</title><link href="http://localhost:4000/databytes-jekyll/markdown/update/2022/11/17/markdown-guide.html" rel="alternate" type="text/html" title="Markdown Guide" /><published>2022-11-17T21:11:02-05:00</published><updated>2022-11-17T21:11:02-05:00</updated><id>http://localhost:4000/databytes-jekyll/markdown/update/2022/11/17/markdown-guide</id><content type="html" xml:base="http://localhost:4000/databytes-jekyll/markdown/update/2022/11/17/markdown-guide.html"><![CDATA[<h1 id="getting-started-with-markdown">Getting Started with Markdown</h1>
+
+<h2 id="what-is-markdown">What is Markdown?</h2>
+<ul>
+  <li>Easy-to-use markup language that converts plain text to HTML/XHTML</li>
+</ul>
+
+<h2 id="why-use-markdown">Why use Markdown?</h2>
+<ul>
+  <li>Start writing with minimal training</li>
+  <li>Used in a variety of applications</li>
+  <li>Increasingly used in technical documentation</li>
+  <li>LaTeX conversion (KaTex) and other add-ins</li>
+  <li>UML diagrams</li>
+  <li>Jekyll, Jupyter Notebooks, Google Collab, R, Python, docs</li>
+</ul>
+
+<h2 id="resources">Resources</h2>
+<ul>
+  <li><a href="https://www.markdownguide.org/">Markdownguide.org</a> (especially the <a href="https://www.markdownguide.org/cheat-sheet/">cheat sheet</a> and <a href="https://www.markdownguide.org/basic-syntax/">basic syntax</a>)</li>
+  <li>There are a variety of useful Markdown editors
+    <ul>
+      <li><a href="https://typora.io/">Typora</a> (free)</li>
+      <li><a href="https://atom.io/">Atom</a> (free, open-source) [Sunset Dec 2022 😱]</li>
+      <li><a href="https://ulysses.app/">Ulysses</a> (MacOS)</li>
+      <li><a href="https://stackedit.io/app#">StackEdit</a> (free, open-source, browser-based)</li>
+      <li>Google Docs add-on</li>
+      <li><a href="https://code.visualstudio.com/">VSCode</a> (free, Markdown extensions)</li>
+    </ul>
+  </li>
+</ul>
+
+<blockquote>
+  <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
+</blockquote>]]></content><author><name></name></author><category term="markdown" /><category term="update" /><summary type="html"><![CDATA[Getting Started with Markdown]]></summary></entry><entry><title type="html">Welcome to the Markdown Workshop</title><link href="http://localhost:4000/databytes-jekyll/markdown/update/2022/11/15/fun-with-markdown2.html" rel="alternate" type="text/html" title="Welcome to the Markdown Workshop" /><published>2022-11-15T21:11:02-05:00</published><updated>2022-11-15T21:11:02-05:00</updated><id>http://localhost:4000/databytes-jekyll/markdown/update/2022/11/15/fun-with-markdown2</id><content type="html" xml:base="http://localhost:4000/databytes-jekyll/markdown/update/2022/11/15/fun-with-markdown2.html"><![CDATA[<h1 id="welcome-to-the-markdown-workshop">Welcome to the Markdown Workshop</h1>
 
 <p>We’ll be looking at Markdown generally and exploring how to use it in the Jekyll sites we created last time.</p>
 
